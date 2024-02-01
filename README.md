@@ -1,3 +1,3 @@
 # hello1
 for test
-I save here my projects
+This repository is for practising the GitHub Flow
