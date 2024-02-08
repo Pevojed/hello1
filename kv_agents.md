@@ -22,5 +22,5 @@ from which the following data should be collected:
 If any of the data is not available on the agent's profile, the field should be filled with the name, 
 for example 'mobile', in the field named accordingly.  
 The extracted data should be stored in an Excel table or .csv file. 
-![](/kw_agents/agent_csv.jpg)
+![](/kw_agents/agents_csv.jpg)
 
