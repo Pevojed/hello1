@@ -12,14 +12,15 @@ from which the following data should be collected:
 - Tel: Agent's direct phone number
 - Mobile: Agent's mobile phone number
 - Site: The address of the agent's website
-- Facebook: The agent's Facebook username
-- Instagram: The agent's Instagram username
+- Facebook: The agent's Facebook address  
+- Linkedin: The agent's Linkedin address  
+- Instagram: The agent's Instagram address
 - YouTube: The address of the agent's YouTube channel
-- Twitter: The agent's Twitter username
+- Twitter: The agent's Twitter address
 - Languages: The languages spoken by the agent
 
-The extracted data should be stored in an Excel table or .csv file.
-
 If any of the data is not available on the agent's profile, the field should be filled with the name, 
-for example 'mobile', in the field named accordingly.
+for example 'mobile', in the field named accordingly.  
+The extracted data should be stored in an Excel table or .csv file. 
+![](/kw_agents/agent_csv.jpg)
 
