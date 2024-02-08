@@ -1,9 +1,9 @@
 
 # Scraping data from website
-https://www.kwserbia.com/agents
+https://www.kwserbia.com/agents 
 [The website](https://www.kwserbia.com/agents) contains a list of real estate agents. It is necessary to list all the agents found on several pages.
 ![Agents page](/kw_agents/agents.jpg)
-By clicking on an agent, their profile page !(/kw_agents/agent_profile.jpg) opens up, from which the following data should be collected:
+By clicking on an agent, their profile page ![](/kw_agents/agent_profile.jpg) opens up, from which the following data should be collected:
 - Name: The agent's name
 - Link: The address of the agent's profile on the website
 - Photo: The address of the agent's photo on the website
