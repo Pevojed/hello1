@@ -24,4 +24,4 @@ for example 'mobile', in the field named accordingly.
 The extracted data should be stored in an Excel table or .csv file. 
 ![](/kw_agents/agents_csv.jpg)  
 
-The ![](/kw_agents/agents_srb.xlsx)
+[The Excel table](/kw_agents/agents_srb.xlsx)
