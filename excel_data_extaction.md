@@ -13,6 +13,6 @@ Where a row has data in columns A through C, find the value in two rows below (p
 9) Log output to log.txt  in local directory  
 
 [Source file = ](/Forecast_30NOV23.xlsx)  
-![Screenshoot](/Forecast_30NOV23.xlsx)  
+![Screenshoot](/Forecast_30NOV23.jpg)  
 [Desired Output =](/Template.xlsx)  
 ![Screenshoot](/considered_planed_orders_with_exclusion.jpg)
