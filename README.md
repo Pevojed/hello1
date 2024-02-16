@@ -7,9 +7,9 @@ some tasks of automatization.
 |       |       |
 |-------|-------|
 | [kv_agents](./kv_agents.md) | [cities](./cities.md) |
-| [basketball](link/c.md) | [excel_data_extaction](./excel_data_extaction.md) |
+| [basketball](link/basketball.md) | [excel_data_extaction](./excel_data_extaction.md) |
 |       |       |
-|-------|-------|
+## Solving Mathematical Problems and Assignments  
 
 I can assist you with your math assignments and help you to solve any math problems for high school, college, or university
 I can assist you with your physics assignments and help you to solve any physics problems for high school, college, or university
