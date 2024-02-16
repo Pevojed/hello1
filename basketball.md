@@ -8,4 +8,4 @@ Attached is an example file of what I would like the data to look like when take
 page I linked to. I can explain the rules if you need.  
 Attachment [Example.xlsx](/basketball/Example.xlsx)  
 Screenshoot 
-![](/basketball/basketball.jpg)
+![](/basketball/Example.jpg)
