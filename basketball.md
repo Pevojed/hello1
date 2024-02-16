@@ -10,6 +10,6 @@ Attachment [Example.xlsx](/basketball/Example.xlsx)
 Screenshoot   
 ![](/basketball/Example.jpg)  
 Output data:  
-Attachment [basketball_data.csv](/basketball/basketball_data.csv)  
+Attachment [basketball_data.csv](/basketball/basket_data.csv)  
 Screenshoot   
-![](/basketball/basketball_data.jpg)  
+![](/basketball/basket_data.jpg)  
