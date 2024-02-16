@@ -1,5 +1,5 @@
 # My Projects  
-## Python programming, scrapping and automatization   
+## Python Programming, Scrapping and Automatization   
 
 I can do for you data collection in Excel or .csv format, web scraping, some more advanced tasks using simple APIs,  
 some tasks of automatization.
