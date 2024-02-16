@@ -7,7 +7,7 @@ The first row of this worksheet contains the city name, and the districts belong
 city are listed in the rows.
 Input data:  
 [regions_lite.json](/cities/regions_lite.json)  
-[cities_lite.json](/cities/cities_lite_lite.json)  
+[cities_lite.json](/cities/cities_lite.json)  
 [districts_lite.json](/cities/districts_lite.json)  
 Output data:  
 [ExtractedData.xlsx](/cities/ExtractedData.xlsx)  
