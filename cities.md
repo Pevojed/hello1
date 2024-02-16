@@ -12,4 +12,5 @@ Input data:
 Output data:  
 [ExtractedData.xlsx](/cities/ExtractedData.xlsx)  
 Screenshoot  
-![](ExtractedData.jpg)
+![](/cities/ExtractedData.jpg)  
+
