@@ -7,5 +7,5 @@ Data should be delievered in .csv format.
 Attached is an example file of what I would like the data to look like when taken from the 
 page I linked to. I can explain the rules if you need.  
 Attachment [Example.xlsx](/basketball/Example.xlsx)  
-Screenshoot 
+Screenshoot   
 ![](/basketball/Example.jpg)
