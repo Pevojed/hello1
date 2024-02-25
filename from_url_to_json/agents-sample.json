@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dr. Tobias Adamczyk",
+        "position": "Technologietransfermanager",
+        "bereich": "Innovation und Umwelt",
+        "phone": "07121 201-253",
+        "p_link": "https://www.reutlingen.ihk.de/fileadmin/user_upload//_processed_/5/a/csm_Adamczyk_Tobias_ca25352ad5.jpg",
+        "url": "https://www.reutlingen.ihk.de/ansprechpartner/person/dr-tobias-adamczyk/"
+    },
+    {
+        "name": "Ugur Aktas",
+        "position": "Leiter Kompetenzstelle Ehrenamt",
+        "bereich": "Ausbildung / Prüfungswesen",
+        "phone": "07121 201-166",
+        "p_link": "https://www.reutlingen.ihk.de/fileadmin/user_upload//_processed_/1/0/csm_Aktas_Ugur_a08976ad4e.jpg",
+        "url": "https://www.reutlingen.ihk.de/ansprechpartner/person/ugur-aktas/"
+    },
+    {
+        "name": "Madeleine Arnold",
+        "position": "Projektmanagerin Innenstadtberatung",
+        "bereich": "Existenzgründung und Unternehmensförderung",
+        "phone": "07121 201-134",
+        "p_link": "https://www.reutlingen.ihk.de/fileadmin/user_upload//_processed_/6/d/csm_Arnold_Madeleine_web_548acfdb06.jpg",
+        "url": "https://www.reutlingen.ihk.de/ansprechpartner/person/madeleine-arnold/"
+    },
+    {
+        "name": "Stefanie Bachmann",
+        "position": "Bereichsassistentin, Sachbearbeiterin",
+        "bereich": "Recht und Steuern",
+        "phone": "07121 201-251",
+        "p_link": "src-??",
+        "url": "https://www.reutlingen.ihk.de/ansprechpartner/person/stefanie-bachmann/"
+    },
+    {
+        "name": "Michael Bachner",
+        "position": "Marketingmanager",
+        "bereich": "Weiterbildung",
+        "phone": "07121 201-259",
+        "p_link": "https://www.reutlingen.ihk.de/fileadmin/user_upload//_processed_/3/7/csm_Bachner_Michael_web_1b958237b0.jpg",
+        "url": "https://www.reutlingen.ihk.de/ansprechpartner/person/michael-bachner/"
+    }
+]
