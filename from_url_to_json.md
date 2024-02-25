@@ -6,8 +6,8 @@ name,
 position, 
 bereich, 
 phone
-url_p (url of the agent's photo if available), 
-url (url of the !agent's profile page)
+p_link (url of the agent's photo if available), 
+url (url of the agent's profile page)
 
 Screenshoots of input data:  
 Common page  
