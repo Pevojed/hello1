@@ -15,3 +15,9 @@ So, for example, the  file the file with name
 simonstools-2024_03_14-05_18_41.csv would be renamed to  
 simostools_20240314_051841_25-38CRPM.csv  
 In column 'Engine Speed (rpm)' minimal rpm is 2470 and maximal rpm is 3807  
+
+I placed the input files in the 'in' folder and the output files in the 'out' folder  
+Screenshoots of input folder:  
+![](/rename_csv_min_max/in_folder.jpg)  
+Screenshoots of output folder:  
+![](/rename_csv_min_max/out_folder.jpg)  
